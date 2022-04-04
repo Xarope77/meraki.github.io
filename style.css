@@ -226,3 +226,7 @@ a:hover{
 #projeto-grupo h4{
     padding-top: 15px;
 }
+
+.header {
+    height: 100vh;
+}
